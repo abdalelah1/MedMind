@@ -32,7 +32,7 @@ MedMind is a Flutter mobile application designed to help patients manage their m
 
 ### Contributors
 
-- **Abdalelah Taleb:** [ abdalelah Taleb ]((https://github.com/abdalelah1))
+- **Abdalelah taleb:** [GitHub Profile](https://github.com/abdalelah1)
 
 ### License
 Feel free to explore and contribute to the project! If you encounter any issues or have suggestions, please open an issue or submit a pull request.
